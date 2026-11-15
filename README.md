@@ -1,5 +1,5 @@
 <h1 align="center">Sergio Junior</h1>
-<h3 align="center">Applied AI Engineer · Florianópolis, SC 🇧🇷</h3>
+<h3 align="center">Applied AI Engineer · Lages, SC 🇧🇷</h3>
 
 <p align="center">
   <em>Construindo sistemas inteligentes que resolvem problemas reais — da teoria conexionista à produção.</em>
@@ -62,7 +62,6 @@ Regra sem teste é boato.
 - 📖 **Pós-Graduação** — IA Aplicada *(próximo passo)*
 - 📘 Estudo atual: *Inteligência Artificial Conexionista* — Jonas H. Mendonça (Arqué, 2025)
   - Perceptron, Adaline, MLP, BAM, Redes ART, Redes Competitivas, RNN
-- 🏛️ Aprovado no concurso DATAPREV/FGV — Analista de TI (Setor Público)
 
 ---
 
